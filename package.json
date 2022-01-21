@@ -16,7 +16,7 @@
     "test": "tsdx test"
   },
   "peerDependencies": {
-    "@pepfar-react-lib/http-tools": "^0.1.23"
+    "@pepfar-react-lib/http-tools": "^0.1.24"
   },
   "name": "@pepfar-react-lib/datim-tools",
   "author": "Jakub Flaska",
